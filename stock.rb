@@ -20,6 +20,7 @@ def stock_picker(stock_prices)
           end
       end
     end
+
   end
   days_to_buy_sell = [min, max]
 end
